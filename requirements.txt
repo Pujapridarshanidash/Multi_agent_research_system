@@ -42,3 +42,4 @@ lxml
 # ==============================
 aiohttp
 
+streamlit-extras
